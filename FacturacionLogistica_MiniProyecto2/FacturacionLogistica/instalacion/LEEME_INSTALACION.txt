@@ -1,0 +1,13 @@
+PAQUETE DE INSTALACION - FACTURACION LOGISTICA
+
+Este paquete contiene el script de publicación y la configuración de ejemplo.
+Para generar el programa ejecutable:
+1. Instala Visual Studio 2022 o .NET 8 SDK en Windows.
+2. Abre PowerShell en esta carpeta.
+3. Ejecuta: .\publicar_windows.ps1
+4. El resultado aparecerá en la carpeta publish.
+5. Copia appsettings.json junto al ejecutable si no se incluyó automáticamente.
+6. Comprime el contenido de publish para distribuirlo.
+
+IMPORTANTE:
+No se incluye un .exe compilado porque el entorno de creación de este paquete no dispone de compilador .NET/Windows. WinForms debe compilarse y publicarse en Windows.

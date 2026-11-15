@@ -1,0 +1,6 @@
+PACK-001;Juan Perez;Zona A;12.5;150.0
+PACK-002;Maria Lopez;Zona C;-5.0;200.0
+PACK-003;Pedro Gomez;Zona B;ABC;100.0
+COD-004;Ana Ruiz;Zona B;25.0;1500.0
+PACK-005;Luis Soto;Zona A;8.0;80.0
+PACK-006;Carla Diaz;Zona C;22.0;500.0
